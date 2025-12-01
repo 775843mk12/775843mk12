@@ -2,7 +2,7 @@
 ### 💻 Web Developer | Front-End & Back-End | Freelancer
 
 📧 **Email:** rsmy91806@gmail.com  
-🌍 **Available for freelance projects – Contact me anytime!**
+🌍 **Available for freelance projects – Contact me anytime!+967776458483**
 
 ---
 
