@@ -1,35 +1,44 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+# Hi 👋, I'm **Mohammed Al-Maliki**
+### 💻 Web Developer | Front-End & Back-End | Freelancer
 
-📊 **this week i spent my time on:**
+📧 **Email:** rsmy91806@gmail.com  
+🌍 **Available for freelance projects – Contact me anytime!**
+
+---
+
+## 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
-
-```txt
+txt
 JavaScript   2 hrs 18 mins   ██████████████████░░░░░░░   71.61 %
 TypeScript   49 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
 XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-```
-
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+---
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## ☕ **Support My Work**
+If you like what I do, consider buying me a coffee/tea 🥺👉👈  
 
-🚧 **my todoist stats:**
+<a href="https://www.buymeacoffee.com/yourlink" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+</a>
+
+---
+
+## 🚧 **My Todoist Stats**
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+🏆 8,004 Karma Points  
+🌸 Completed 0 tasks today  
+✅ Completed 673 tasks so far  
+⏳ Longest streak is 10 days  
 <!-- TODO-IST:END -->
 
+---
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
+## 📈 **My GitHub Stats**
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-almaliki&show_icons=true&theme=gotham" alt="mohammed-almaliki" />
+</p>
 
