@@ -1,8 +1,8 @@
-# Hi 👋, I'm **Mohammed Al-Maliki**
+# Hi 👋, I'm **محمد المليكي**
 ### 💻 Web Developer | Front-End & Back-End | Freelancer
 
 📧 **Email:** rsmy91806@gmail.com  
-🌍 **Available for freelance projects – Contact me anytime!+967776458483**
+🌍 **Available for freelance projects – Contact me anytime!967776458483+**
 
 ---
 
