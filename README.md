@@ -1,8 +1,20 @@
-# Hi 👋, I'm **محمد المليكي**
+# Hi 👋, I'm **Mohammed Al-Maliki**
 ### 💻 Web Developer | Front-End & Back-End | Freelancer
 
 📧 **Email:** rsmy91806@gmail.com  
-🌍 **Available for freelance projects – Contact me anytime!967776458483+**
+📞 **Phone:** +967776458483  
+🌍 **Available for freelance projects – Contact me anytime!**
+
+---
+
+## 🚀 Skills & Technologies
+Here are the languages and technologies I work with:
+
+- **C++**
+- **Python**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ---
 
@@ -41,4 +53,3 @@ If you like what I do, consider buying me a coffee/tea 🥺👉👈
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mohammed-almaliki&show_icons=true&theme=gotham" alt="mohammed-almaliki" />
 </p>
-
